@@ -9,4 +9,4 @@ E foi adaptado para consumir o web service [http://www.webservicex.com/country.a
 
 `gradle genJaxb`
 
-para gerar as classes baseadas no WSDL
+para gerar as classes baseadas no WSDL, que serão armazenadas em build/generated-sources.
