@@ -1,9 +1,12 @@
-Baseado em https://spring.io/guides/gs/consuming-web-service/
+## Sobre o projeto
 
-Comandos úteis:
+Este projeto foi baseado em https://spring.io/guides/gs/consuming-web-service/
 
-gradle clean
+E foi adaptado para consumir o web service [http://www.webservicex.com/country.asmx](http://www.webservicex.com/country.asmx)
 
-gradle genJaxb
+
+### Comandos extras
+
+`gradle genJaxb`
 
 para gerar as classes baseadas no WSDL
